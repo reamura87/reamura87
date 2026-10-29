@@ -69,32 +69,49 @@ UI, API, dan proyek personal	Image workflows | Automation	Bali-inspired digital 
 
 🧰 Tools yang sering dieksplorasi
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,python,git,github,postgres,supabase,cloudflare,vscode&perline=6" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=js,react,vite,nodejs,python,git,github,supabase,cloudflare,vscode,blender,unreal,godot,photoshop,figma,aftereffects&perline=8" alt="Technology icons" />
 </p>
 
-🌺 Proyek Pilihan | Featured Project
+<!-- 🌺 Featured Project -->
+<h2 align="center">🌺 Proyek Pilihan | Featured Project</h2>
+
 <div align="center">
+  <a href="https://github.com/reamura87/Citana-Playground">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=reamura87&repo=Citana-Playground&theme=transparent&hide_border=true"
+      alt="Citana Playground Repository"
+      width="400"
+    />
+  </a>
 
-<a href="https://github.com/reamura87/Citana-Playground">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=reamura87&repo=Citana-Playground&theme=transparent&hide_border=true" alt="Citana Playground repository card" />
-</a>
-
-Playground Archive
-Ruang digital untuk menyimpan ide, eksperimen, karya visual, dan potongan kode—sebuah kebun kecil yang terus tumbuh.
+  <p>
+    <strong>Playground Archive</strong><br/>
+    Ruang digital untuk menyimpan ide, eksperimen,
+    karya visual, dan potongan kode.
+  </p>
 </div>
 
-📊 Jejak di GitHub | GitHub Stats
+<!-- 📊 GitHub Statistics -->
+<h2 align="center">📊 Jejak di GitHub | GitHub Stats</h2>
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reamura87&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reamura87&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=reamura87&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400"
+    alt="GitHub Statistics"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=reamura87&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400"
+    alt="Most Used Programming Languages"
+    height="165"
+  />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=reamura87&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=reamura87&hide_border=true&theme=transparent"
+    alt="GitHub Contribution Streak"
+  />
 </div>
 
-<div align="center">
-
-ᬓᬾᬢᬸᬢᬸᬃ | Keep growing, keep creating.
-“Setiap baris kode adalah benih; setiap eksperimen adalah cara baru untuk tumbuh.”
 
 🌿 Terima kasih sudah mampir ke kebun digital saya.
 Made with curiosity, code, and a little island spirit.
