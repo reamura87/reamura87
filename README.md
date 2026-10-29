@@ -2,9 +2,9 @@
 
 <img src="assets/bali-pixel-banner.png" alt="Pixel-art dunia Bali tropis dengan pura dan bunga" width="100%" />
 
-ᬒᬁ  Komang Satria Bagas Bramantara
-reamura87 · Developer in Progress · Digital Garden Keeper
-Membangun hal-hal digital dengan rasa ingin tahu, kreativitas, dan inspirasi dari Bali.
+<h1 align="center", style="font-family: 'YourPixelFont', monospace;">
+  Komang Satria Bagas Bramantara
+</h1>
 <p>
   <img src="https://img.shields.io/badge/Indonesia-Bali-CE1126?style=flat-square&labelColor=1b4332" alt="Bali, Indonesia" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-2d6a4f?style=flat-square" alt="Web Development" />
@@ -14,11 +14,10 @@ Membangun hal-hal digital dengan rasa ingin tahu, kreativitas, dan inspirasi dar
 
 🌿 Playground Archive · 💻 GitHub Repositories
 
-ᬒᬁ ᬲ᭄ᬯᬲ᭄ᬢᬶᬬᬲ᭄ᬢᬸ
-<sub>Om Swastyastu — salam damai dan kebaikan.</sub>
-</div>
 
-✿ Tentang Saya · About Me
+<br><br>
+<h1 align="center", style="margin= 40px;">ᬒᬁ ᬲ᭄ᬯᬲ᭄ᬢᬶᬬᬲ᭄ᬢᬸ</h1>
+<br><br>
 <table>
 <tr>
 <td width="34%" align="center" valign="middle">
@@ -62,8 +61,8 @@ Tri Hita Karana menjadi inspirasi nilai: menjaga harmoni dengan sesama, alam, da
 <div align="center">
 
 🌐 Web Development	🧠 Artificial Intelligence	🎮 Creative Worlds
-React · Vite · JavaScript	Generative AI · Local AI	Pixel art · RPG concepts
-UI, API, dan proyek personal	Image workflows · Automation	Bali-inspired digital art
+React | Vite | JavaScript	Generative AI · Local AI	Pixel art | RPG concepts
+UI, API, dan proyek personal	Image workflows | Automation	Bali-inspired digital art
 
 
 </div>
@@ -73,7 +72,7 @@ UI, API, dan proyek personal	Image workflows · Automation	Bali-inspired digital
   <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,python,git,github,postgres,supabase,cloudflare,vscode&perline=6" alt="Technology icons" />
 </p>
 
-🌺 Proyek Pilihan · Featured Project
+🌺 Proyek Pilihan | Featured Project
 <div align="center">
 
 <a href="https://github.com/reamura87/Citana-Playground">
@@ -84,7 +83,7 @@ Playground Archive
 Ruang digital untuk menyimpan ide, eksperimen, karya visual, dan potongan kode—sebuah kebun kecil yang terus tumbuh.
 </div>
 
-📊 Jejak di GitHub · GitHub Stats
+📊 Jejak di GitHub | GitHub Stats
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=reamura87&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reamura87&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
@@ -94,7 +93,7 @@ Ruang digital untuk menyimpan ide, eksperimen, karya visual, dan potongan kode�
 
 <div align="center">
 
-ᬓᬾᬢᬸᬢᬸᬃ · Keep growing, keep creating.
+ᬓᬾᬢᬸᬢᬸᬃ | Keep growing, keep creating.
 “Setiap baris kode adalah benih; setiap eksperimen adalah cara baru untuk tumbuh.”
 
 🌿 Terima kasih sudah mampir ke kebun digital saya.
