@@ -12,7 +12,7 @@
 </p>
 
 
-🌿 Playground Archive · 💻 GitHub Repositories
+aku nak belajar back nd
 
 
 <br><br>
