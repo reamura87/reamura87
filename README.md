@@ -18,12 +18,14 @@ list ai yang sudah saya pecut
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chatgpt.svg" height="40" alt="ChatGPT" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/claude.svg" height="40" alt="Claude" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/claude-ai.svg" height="40" alt="Claude" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gemini.svg" height="40" alt="Gemini" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" height="40" alt="Gemini" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hermesagent.svg" height="40" alt="Hermes Agent" />
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/hermesagent.svg" height="65" alt="Hermes Agent" />
 </p>
+
+hermes kecil soalnya dia takut
 
 <br><br>
 <h1 align="center", style="margin= 40px;">ᬒᬁ ᬲ᭄ᬯᬲ᭄ᬢᬶᬬᬲ᭄ᬢᬸ</h1>
